@@ -1,9 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T04:18:46.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="22.0.6" etag="TsEkRoE5kHZ5AyU1SIZ7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T04:54:22.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="28FhJwTSK3dOOO1a9Qqa" version="22.0.6" type="github">
   <diagram name="Page-1" id="g9H4eLqSMFC9hu79CJ8q">
-    <mxGraphModel>
+    <mxGraphModel dx="690" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NYkU2A6MgOe3E8ChRXdF-1" target="NYkU2A6MgOe3E8ChRXdF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NYkU2A6MgOe3E8ChRXdF-1" target="NYkU2A6MgOe3E8ChRXdF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-1" value="Past three point line?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NYkU2A6MgOe3E8ChRXdF-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-2" value="Add 3 points for scoring team" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-4" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="128" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NYkU2A6MgOe3E8ChRXdF-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="565" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-5" value="add two points" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-7" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="78" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-11" value="behind 3 point line?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="360" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NYkU2A6MgOe3E8ChRXdF-12" target="NYkU2A6MgOe3E8ChRXdF-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NYkU2A6MgOe3E8ChRXdF-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-12" value="Fouled?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NYkU2A6MgOe3E8ChRXdF-13" target="NYkU2A6MgOe3E8ChRXdF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NYkU2A6MgOe3E8ChRXdF-13" target="NYkU2A6MgOe3E8ChRXdF-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-13" value="Did a player score?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-15" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="40" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-16" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NYkU2A6MgOe3E8ChRXdF-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="285" />
+              <mxPoint x="350" y="285" />
+              <mxPoint x="350" y="330" />
+              <mxPoint x="450" y="330" />
+              <mxPoint x="450" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-20" value="Fouled?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NYkU2A6MgOe3E8ChRXdF-19">
+          <mxGeometry x="0.4398" y="11" relative="1" as="geometry">
+            <mxPoint x="-197" y="-59" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-17" value="dont add any points" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-21" value="add points from two free throws" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-24" value="Add points from three free throws" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NYkU2A6MgOe3E8ChRXdF-26" value="In front of 3 point line?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="330" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
